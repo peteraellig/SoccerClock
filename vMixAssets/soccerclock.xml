@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+    <TextBoxes>
+        <TextBox1>45</TextBox1>
+        <TextBox2>15</TextBox2>
+        <TextBox3>pause 1st half</TextBox3>
+        <TextBox4>pause 2nd half</TextBox4>
+        <TextBox5>pause 3rd half</TextBox5>
+        <TextBox6>end of match</TextBox6>
+        <TextBox7>-</TextBox7>
+        <TextBox8>C:\VMIX\soccerclock\titles\scorebug.gtzip</TextBox8>
+        <TextBox9>time.Text</TextBox9>
+        <TextBox10>overtime.Text</TextBox10>
+        <TextBox11>bg_ot.Source</TextBox11>
+        <TextBox12>overtime_toplay.Text</TextBox12>
+        <TextBox13>bg_ot_toplay.Source</TextBox13>
+        <TextBox14>home_short.Text</TextBox14>
+        <TextBox15>away_short.Text</TextBox15>
+        <TextBox16>home_score.Text</TextBox16>
+        <TextBox17>away_score.Text</TextBox17>
+        <TextBox18>divider.Text</TextBox18>
+        <TextBox19>C:\VMIX\soccerclock\titles\public_display.gtzip</TextBox19>
+        <TextBox20>bg_clock.Source</TextBox20>
+        <TextBox21>FC Aarau</TextBox21>
+        <TextBox22>FC Basel</TextBox22>
+        <TextBox23>FCA</TextBox23>
+        <TextBox24>FCB</TextBox24>
+        <TextBox25>localhost</TextBox25>
+        <TextBox26>home_long.Text</TextBox26>
+        <TextBox27>away_long.Text</TextBox27>
+        <TextBox28>home_color1.Fill.Color</TextBox28>
+        <TextBox29>home_color2.Fill.Color</TextBox29>
+        <TextBox30>away_color1.Fill.Color</TextBox30>
+        <TextBox31>away_color2.Fill.Color</TextBox31>
+        <TextBox32>C:\VMIX\soccerclock\titles\title.gtzip</TextBox32>
+        <TextBox33 />
+        <TextBox34>text_1.Text</TextBox34>
+        <TextBox35>text_2.Text</TextBox35>
+        <TextBox36>text_3.Text</TextBox36>
+        <TextBox37>result.Text</TextBox37>
+        <TextBox38>Your League</TextBox38>
+        <TextBox39>University Stadium</TextBox39>
+        <TextBox40>Text 3</TextBox40>
+    </TextBoxes>
+    <CheckBoxes>
+        <CheckBox1>False</CheckBox1>
+        <CheckBox2>False</CheckBox2>
+        <CheckBox3>False</CheckBox3>
+        <CheckBox4>False</CheckBox4>
+        <CheckBox5>False</CheckBox5>
+        <CheckBox6>False</CheckBox6>
+        <CheckBox8>True</CheckBox8>
+    </CheckBoxes>
+    <Network>
+        <TcpPort>8099</TcpPort>
+        <HttpPort>8088</HttpPort>
+    </Network>
+    <Overlays>
+        <ScorebugOverlay>1</ScorebugOverlay>
+        <TitelOverlay>2</TitelOverlay>
+        <WerbungOverlay>3</WerbungOverlay>
+        <WerbungLabel1>nike</WerbungLabel1>
+        <WerbungLabel2>rivella</WerbungLabel2>
+    </Overlays>
+    <LiveJson>
+        <JsonPath>C:\vmix\soccerclock\data\soccerclock_live.json</JsonPath>
+    </LiveJson>
+    <Colors>
+        <HomeColor1>000000</HomeColor1>
+        <HomeColor2>FFFFFF</HomeColor2>
+        <AwayColor1>0000FF</AwayColor1>
+        <AwayColor2>FF0000</AwayColor2>
+    </Colors>
+</Settings>
