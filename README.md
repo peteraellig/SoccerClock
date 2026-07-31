@@ -135,9 +135,9 @@ The operator focuses on the match while the technical distribution runs in the b
 
 ## License
 
-Copyright (C) 2026 Peter Aellig
-
-This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License, version 3](LICENSE) as published by the Free Software Foundation. Anyone can use, study, share, and build on this project — as long as derivative works stay licensed under GPLv3 too.
+This project is released under the [BSD Zero Clause License (0BSD)](LICENSE).
+You may use, copy, modify, and distribute it for any purpose, with or without
+fee, and without attribution.
 
 ---
 
